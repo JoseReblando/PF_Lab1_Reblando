@@ -1,7 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
 using System.Security.Claims;
-using MoodPlaylistGenerator.Services;
+using MoodPlaylist.SQLite.Services;
+using MoodPlaylist.SQLite.Repository.Data;
+using MoodPlaylist.SQLite.Repository.Models;
 using MoodPlaylistGenerator.ViewModels;
 
 namespace MoodPlaylistGenerator.Controllers
