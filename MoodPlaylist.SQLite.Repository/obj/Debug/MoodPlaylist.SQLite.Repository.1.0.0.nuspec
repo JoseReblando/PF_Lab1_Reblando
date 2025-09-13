@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MoodPlaylist.SQLite.Repository</id>
+    <version>1.0.0</version>
+    <authors>MoodPlaylist.SQLite.Repository</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.EntityFrameworkCore" version="9.0.9" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Sqlite" version="9.0.9" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\GUE55WH08206\Source\Repos\MoodPlaylist.SQLite.Repository\bin\Debug\net8.0\MoodPlaylist.SQLite.Repository.runtimeconfig.json" target="lib\net8.0\MoodPlaylist.SQLite.Repository.runtimeconfig.json" />
+    <file src="C:\Users\GUE55WH08206\Source\Repos\MoodPlaylist.SQLite.Repository\bin\Debug\net8.0\MoodPlaylist.SQLite.Repository.dll" target="lib\net8.0\MoodPlaylist.SQLite.Repository.dll" />
+  </files>
+</package>

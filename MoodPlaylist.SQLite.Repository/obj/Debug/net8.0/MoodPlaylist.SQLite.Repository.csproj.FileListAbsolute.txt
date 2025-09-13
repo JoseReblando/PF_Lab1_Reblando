@@ -1,0 +1,14 @@
+C:\Users\GUE55WH08206\Source\Repos\MoodPlaylist.SQLite.Repository\bin\Debug\net8.0\MoodPlaylist.SQLite.Repository.deps.json
+C:\Users\GUE55WH08206\Source\Repos\MoodPlaylist.SQLite.Repository\bin\Debug\net8.0\MoodPlaylist.SQLite.Repository.runtimeconfig.json
+C:\Users\GUE55WH08206\Source\Repos\MoodPlaylist.SQLite.Repository\bin\Debug\net8.0\MoodPlaylist.SQLite.Repository.dll
+C:\Users\GUE55WH08206\Source\Repos\MoodPlaylist.SQLite.Repository\bin\Debug\net8.0\MoodPlaylist.SQLite.Repository.pdb
+C:\Users\GUE55WH08206\Source\Repos\MoodPlaylist.SQLite.Repository\obj\Debug\net8.0\MoodPlaylist.SQLite.Repository.csproj.AssemblyReference.cache
+C:\Users\GUE55WH08206\Source\Repos\MoodPlaylist.SQLite.Repository\obj\Debug\net8.0\MoodPlaylist.SQLite.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUE55WH08206\Source\Repos\MoodPlaylist.SQLite.Repository\obj\Debug\net8.0\MoodPlaylist.SQLite.Repository.AssemblyInfoInputs.cache
+C:\Users\GUE55WH08206\Source\Repos\MoodPlaylist.SQLite.Repository\obj\Debug\net8.0\MoodPlaylist.SQLite.Repository.AssemblyInfo.cs
+C:\Users\GUE55WH08206\Source\Repos\MoodPlaylist.SQLite.Repository\obj\Debug\net8.0\MoodPlaylist.SQLite.Repository.csproj.CoreCompileInputs.cache
+C:\Users\GUE55WH08206\Source\Repos\MoodPlaylist.SQLite.Repository\obj\Debug\net8.0\MoodPlaylist.SQLite.Repository.dll
+C:\Users\GUE55WH08206\Source\Repos\MoodPlaylist.SQLite.Repository\obj\Debug\net8.0\refint\MoodPlaylist.SQLite.Repository.dll
+C:\Users\GUE55WH08206\Source\Repos\MoodPlaylist.SQLite.Repository\obj\Debug\net8.0\MoodPlaylist.SQLite.Repository.pdb
+C:\Users\GUE55WH08206\Source\Repos\MoodPlaylist.SQLite.Repository\obj\Debug\net8.0\MoodPlaylist.SQLite.Repository.genruntimeconfig.cache
+C:\Users\GUE55WH08206\Source\Repos\MoodPlaylist.SQLite.Repository\obj\Debug\net8.0\ref\MoodPlaylist.SQLite.Repository.dll
